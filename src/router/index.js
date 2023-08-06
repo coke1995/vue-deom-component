@@ -11,9 +11,9 @@ const router = new VueRouter({
             component: () => import('../views/index.vue')
         },
         {
-            path: "/collspace",
-            name: 'Collspace',
-            component: () => import('../views/collspace/index.vue')
+            path: "/collapse",
+            name: 'Collapse',
+            component: () => import('../views/collapse/index.vue')
         }
     ],
     mode: 'history'

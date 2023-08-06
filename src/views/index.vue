@@ -1,6 +1,6 @@
 <template>
   <div>
-    <router-link to="/collspace">组件1</router-link>
+    <router-link to="/collapse">组件1</router-link>
   </div>
 </template>
 

@@ -12,6 +12,7 @@
     "vite": "^4.4.5"
   },
   "dependencies": {
+    "element-ui": "^2.15.13",
     "vite-plugin-vue2": "^2.0.3",
     "vue": "^2.7.14",
     "vue-router": "^3.6.5",
