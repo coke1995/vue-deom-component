@@ -1,13 +1,10 @@
 <template>
-  <div>vue2-demo</div>
+  <router-view></router-view>
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
 <style>
-
 </style>
